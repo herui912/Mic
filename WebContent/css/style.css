@@ -1,0 +1,34 @@
+.description, .authors{
+	color:#00007A;
+}
+.description{
+	font-weight:500;
+}
+.authors, .words, .pubts{
+    font-size:12px;
+}
+
+.jpg, .description{
+	display:inline;
+	padding:5px;
+}
+.jpg{
+	float:left;
+	
+}
+thead tr td{
+	background-color:#A13030;
+	font-weight:900;
+	color:white;
+	border:1px solid #414141;
+	
+
+}
+thead  {
+
+	border-bottom:3px solid #B25858;
+
+}
+tbody tr td{
+	border:1px solid #E5E5E5;
+}
